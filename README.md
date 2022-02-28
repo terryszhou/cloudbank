@@ -2,8 +2,10 @@
   Cloudbank
 </h1>
 <p align="center">
-  "It's all part of the process." A dark but vibrant theme for Transistor fans on VS Code!
+  <i>"It's all part of the process."</i> A dark but vibrant theme for Transistor fans on VS Code!
 </p>
+
+![screenshot](https://raw.githubusercontent.com/terryszhou/cloudbank/master/public/screenshot.png)
 
 ## Installation via VS Code
 
