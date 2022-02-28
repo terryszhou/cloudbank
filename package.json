@@ -1,0 +1,21 @@
+{
+    "name": "cloudbank",
+    "displayName": "Cloudbank",
+    "description": "\"It's all part of the process.\" A dark but vibrant color theme for Transistor fans!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cloudbank",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cloudbank-color-theme.json"
+            }
+        ]
+    }
+}
