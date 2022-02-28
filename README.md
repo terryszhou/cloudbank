@@ -1,3 +1,6 @@
+<p align="center">
+  <img alt="Cloudbank Logo" src="https://raw.githubusercontent.com/terryszhou/cloudbank/master/public/cloudbank.png" width="100" />
+</p>
 <h1 align="center">
   Cloudbank
 </h1>
