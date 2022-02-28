@@ -8,10 +8,14 @@
 		"badge.background": "#1e1e1e",
 
 		"breadcrumb.foreground": "#d5ad3f",
+
 		"button.background": "#343434",
 		"button.foreground": "#d5ad3f",
 
-		"dropdown.background": "#1e1e1e",
+    "descriptionForeground": "#d5ad3f",
+
+		"dropdown.background": "#343434",
+		"dropdown.foreground": "#d5ad3f",
 
 		"editor.background": "#1e1e1ea3",
 		"editor.foreground": "#c49949",
@@ -29,17 +33,19 @@
 		"editorWidget.foreground": "#d5ad3f",
 		"editorWhitespace.foreground": "#6dd4b28c",
 
+    "errorForeground": "#c74031",
+
 		"focusBorder": "#d5ad3f",
 
-		"foreground": "#d5ad3f",
+    "foreground": "#d5ad3f",
 
 		"icon.foreground": "#d5ad3f",
 
 		"input.background": "#343434",
-		"input.border":  "#b96f2e",
 		"input.foreground": "#d5ad3f",
 		"input.placeholderForeground": "#5e5e65",
-		"inputOption.activeBorder": "#b96f2e",
+		"inputOption.activeBackground": "#6dd4b28c",
+		"inputOption.activeForeground": "#fff",
 		"inputValidation.errorBackground": "#1e1e1ea3",
 		"inputValidation.errorBorder": "#c74031",
 		"inputValidation.infoBackground": "#1e1e1ea3",
@@ -54,6 +60,11 @@
 
 		"menu.background": "#1e1e1ea3",
 		"menu.foreground": "#d5ad3f",
+
+    "merge.currentContentBackground": "#6dd4b28c",
+		"merge.currentHeaderBackground": "#343434",
+    "merge.incomingContentBackground": "#b96f2e",
+    "merge.incomingHeaderBackground": "#343434",
 
 		"minimap.selectionHighlight": "#6dd4b238",
 
@@ -78,7 +89,7 @@
 		"scrollbarSlider.background": "#343434",
 		"scrollbarSlider.hoverBackground": "#343434",
 
-		"selection.background": "#1e1e1e",
+    "selection.background": "#1e1e1e",
 
 		"sideBar.background": "#1e1e1ea3",
 		"sideBar.foreground": "#d5ad3f",
@@ -98,14 +109,24 @@
 		"terminal.background": "#1e1e1e",
 		"terminal.foreground" : "#d5ad3f",
 
+		"textBlockQuote.background": "#1e1e1e",
+    "textBlockQuote.border": "#b96f2e",
+    "textCodeBlock.background": "#1e1e1ea3",
+    "textLink.activeForeground": "#d5ad3f",
+    "textLink.foreground": "#d5ad3f",
+    "textPreformat.foreground": "#b96f2e",
+    "textSeparator.foreground": "#b96f2e",
+
 		"titleBar.activeBackground": "#1e1e1ea3",
 		"titleBar.activeForeground": "#d5ad3f",
 
-		"tree.indentGuidesStroke": "#6dd4b28c"
+		"tree.indentGuidesStroke": "#6dd4b28c",
 
+    "widget.shadow": "#1e1e1ea3",
 	},
 	"tokenColors": [
 		{
+			"scope": [],
 			"settings": {
 				"foreground": "#d5ad3f"
 			}
