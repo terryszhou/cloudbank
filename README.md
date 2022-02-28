@@ -1,10 +1,17 @@
+<h1 align="center">
+  Cloudbank
+</h1>
+<p align="center">
+  "It's all part of the process." A dark but vibrant theme for Transistor fans on VS Code!
+</p>
+
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Halcyon`
+2. Search for `Cloudbank`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Halcyon**
+5. Code > Preferences > Color Theme > **Cloudbank**
 
 ## Icon Theme
 
@@ -16,12 +23,12 @@ The file icon theme seen in the screenshot above is [VSCode Icons](https://marke
 
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#b96f2e](https://via.placeholder.com/10/b96f2e?text=+) `#b96f2e` | Keywords, punctuation, booleans                 |
 | ![#58c7a2](https://via.placeholder.com/10/58c7a2?text=+) `#58c7a2` | Functions, operators                            |
 | ![#71a573](https://via.placeholder.com/10/71a573?text=+) `#71a573` | Constants, variables                            |
+| ![#b6f69d](https://via.placeholder.com/10/b6f69d?text=+) `#b6f69d` | Numbers, integers, floats, separators           |
+| ![#b96f2e](https://via.placeholder.com/10/b96f2e?text=+) `#b96f2e` | Keywords, punctuation, booleans                 |
 | ![#d5ad3f](https://via.placeholder.com/10/d5ad3f?text=+) `#d5ad3f` | Strings, general foreground                     |
 | ![#c74031](https://via.placeholder.com/10/c74031?text=+) `#c74031` | Classes, tags, object keys                      |
-| ![#b6f69d](https://via.placeholder.com/10/b6f69d?text=+) `#b6f69d` | Numbers, integers, floats, separators           |
 
 ### UI Colors
 
@@ -31,8 +38,8 @@ The file icon theme seen in the screenshot above is [VSCode Icons](https://marke
 | ![#343434](https://via.placeholder.com/10/343434?text=+) `#343434`       | Inputs, headings, dropdowns               |
 | ![#6dd4b238](https://via.placeholder.com/10/6dd4b238?text=+) `#6dd4b238` | Highlighting, whitespace                  |
 | ![#58c7a2](https://via.placeholder.com/10/58c7a2?text=+) `#58c7a2`       | Activity bar icons, line numbers          |
-| ![#b96f2e](https://via.placeholder.com/10/b96f2e?text=+) `#b96f2e`       | Borders                                   |
 | ![#d5ad3f](https://via.placeholder.com/10/d5ad3f?text=+) `#d5ad3f`       | Foreground, text                          |
+| ![#b96f2e](https://via.placeholder.com/10/b96f2e?text=+) `#b96f2e`       | Borders                                   |
 | ![#c74031](https://via.placeholder.com/10/c74031?text=+) `#c74031`       | Errors                                    |
 
 ## Theming Reference
