@@ -1,11 +1,14 @@
 <p align="center">
   <img alt="Cloudbank Logo" src="https://raw.githubusercontent.com/terryszhou/cloudbank/master/public/cloudbank.png" width="150" />
 </p>
-<h1 align="center" style={{ color: "goldenrod" }}>
+<h1 align="center">
   Cloudbank
 </h1>
+<p align="center"><i>
+  "It's all part of the process."
+</i></p>
 <p align="center">
-  <i>"It's all part of the process."</i> A dark but vibrant theme inspired by the cyberpunk/art deco aesthetic of Transistor by Supergiant Games! This theme won't let you fight giant robots, or give you the power to rewrite reality. But it will make you feel pretty cool. 
+  A dark but vibrant theme inspired by the cyberpunk/art deco aesthetic of <a href="https://store.steampowered.com/app/237930/Transistor/">Transistor</a> by Supergiant Games! This theme won't let you fight giant robots, or give you the power to rewrite reality. But it will make you feel pretty cool. <i>(Note: leather coat, muscle bike, and oversized sword not included).</i>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/terryszhou/cloudbank/master/public/screenshot.png)
