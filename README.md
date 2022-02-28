@@ -1,11 +1,11 @@
 <p align="center">
-  <img alt="Cloudbank Logo" src="https://raw.githubusercontent.com/terryszhou/cloudbank/master/public/cloudbank.png" width="100" />
+  <img alt="Cloudbank Logo" src="https://raw.githubusercontent.com/terryszhou/cloudbank/master/public/cloudbank.png" width="150" />
 </p>
-<h1 align="center">
+<h1 align="center" style={{ color: "goldenrod" }}>
   Cloudbank
 </h1>
 <p align="center">
-  <i>"It's all part of the process."</i> A dark but vibrant theme for Transistor fans on VS Code!
+  <i>"It's all part of the process."</i> A dark but vibrant theme inspired by the cyberpunk/art deco aesthetic of Transistor by Supergiant Games! This theme won't let you fight giant robots, or give you the power to rewrite reality. But it will make you feel pretty cool. 
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/terryszhou/cloudbank/master/public/screenshot.png)
@@ -58,3 +58,7 @@ The file icon theme seen in the screenshot above is [VSCode Icons](https://marke
 [VS Code Customization Reference](https://gist.github.com/idleberg/004fad51888d745ac609a24d5804050f)
 
 Syntax & Workbench colors based on [Kimbie Dark+](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus)
+
+### Disclaimer & Special Thanks
+
+This theme is a fan-made creation inspired by my favourite video game of all time, <a href="https://store.steampowered.com/app/237930/Transistor/">Transistor</a> by Supergiant Games. I am in no way affiliated with Supergiant, nor do I make money from this free theme in any way. Thanks to Supergiant for crafting incredible experiences time and again!
