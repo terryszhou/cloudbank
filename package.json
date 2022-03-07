@@ -1,8 +1,9 @@
 {
   "name": "cloudbank",
   "displayName": "Cloudbank",
-  "description": "\"It's all part of the process.\" A dark but vibrant theme inspired by the cyberpunk/art deco aesthetic of Transistor by Supergiant Games! This theme won't let you fight giant robots, or give you the power to rewrite reality. But it will make you feel pretty cool. (Note: leather coat, muscle bike, and oversized sword not included).",
-  "version": "0.0.1",
+  "description": "\"It's all part of the process.\" A dark but vibrant theme inspired by the cyberpunk/art deco aesthetic of Transistor by Supergiant Games!",
+  "icon": "./public/cloudbank-logo.png",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.64.0"
   },
