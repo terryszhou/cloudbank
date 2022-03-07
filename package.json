@@ -1,21 +1,25 @@
 {
-    "name": "cloudbank",
-    "displayName": "Cloudbank",
-    "description": "\"It's all part of the process.\" A dark but vibrant color theme for Transistor fans!",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.64.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Cloudbank",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Cloudbank-color-theme.json"
-            }
-        ]
-    }
+  "name": "cloudbank",
+  "displayName": "Cloudbank",
+  "description": "\"It's all part of the process.\" A dark but vibrant theme inspired by the cyberpunk/art deco aesthetic of Transistor by Supergiant Games! This theme won't let you fight giant robots, or give you the power to rewrite reality. But it will make you feel pretty cool. (Note: leather coat, muscle bike, and oversized sword not included).",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cloudbank",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cloudbank-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terryszhou/cloudbank.git"
+  }
 }
