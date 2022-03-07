@@ -31,11 +31,11 @@ The file icon theme seen in the screenshot above is [VSCode Icons](https://marke
 
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#58c7a2](https://via.placeholder.com/10/58c7a2?text=+) `#58c7a2` | Functions, operators                            |
-| ![#71a573](https://via.placeholder.com/10/71a573?text=+) `#71a573` | Constants, variables                            |
 | ![#b6f69d](https://via.placeholder.com/10/b6f69d?text=+) `#b6f69d` | Numbers, integers, floats, separators           |
-| ![#b96f2e](https://via.placeholder.com/10/b96f2e?text=+) `#b96f2e` | Keywords, punctuation, booleans                 |
+| ![#71a573](https://via.placeholder.com/10/71a573?text=+) `#71a573` | Constants, variables                            |
+| ![#58c7a2](https://via.placeholder.com/10/58c7a2?text=+) `#58c7a2` | Functions, operators                            |
 | ![#d5ad3f](https://via.placeholder.com/10/d5ad3f?text=+) `#d5ad3f` | Strings, general foreground                     |
+| ![#b96f2e](https://via.placeholder.com/10/b96f2e?text=+) `#b96f2e` | Keywords, punctuation, booleans                 |
 | ![#c74031](https://via.placeholder.com/10/c74031?text=+) `#c74031` | Classes, tags, object keys                      |
 
 ### UI Colors
