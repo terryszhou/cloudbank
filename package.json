@@ -2,7 +2,11 @@
   "name": "cloudbank",
   "displayName": "Cloudbank",
   "description": "\"It's all part of the process.\" A dark but vibrant theme inspired by the cyberpunk/art deco aesthetic of Transistor by Supergiant Games!",
-  "icon": "./public/cloudbank-logo.png",
+  "icon": "public/cloudbank-logo.png",
+  "galleryBanner": {
+    "color": "#1e1e1ea3",
+    "theme": "dark"
+  },
   "version": "0.0.2",
   "engines": {
     "vscode": "^1.64.0"
@@ -20,8 +24,17 @@
     ]
   },
   "publisher": "terryszhou",
+  "author": {
+    "name": "Terry"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/terryszhou/cloudbank/issues",
+    "email": "terryszhou@gmail.com"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/terryszhou/cloudbank.git"
-  }
+  },
+  "homepage": "https://github.com/terryszhou/cloudbank/blob/main/README.md"
 }
