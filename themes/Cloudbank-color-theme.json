@@ -39,6 +39,9 @@
 
     "foreground": "#d5ad3f",
 
+		"gitDecoration.modifiedResourceForeground": "#00ffb3",
+		"gitDecoration.deletedResourceForeground": "#c74031",
+		
 		"icon.foreground": "#d5ad3f",
 
 		"input.background": "#343434",
