@@ -10,6 +10,17 @@
 <p align="center">
   A dark but vibrant theme inspired by the cyberpunk/art deco aesthetic of <a href="https://store.steampowered.com/app/237930/Transistor/">Transistor</a> by Supergiant Games! This theme won't let you fight giant robots, or give you the power to rewrite reality. But it will make you feel pretty cool. <i>(Note: leather coat, muscle bike, and oversized sword not included).</i>
 </p>
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=terryszhou.cloudbank">
+    <img alt="Version" src="https://vsmarketplacebadge.apphb.com/version/terryszhou.cloudbank.svg" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=terryszhou.cloudbank">
+    <img alt="Downloads" src="https://vsmarketplacebadge.apphb.com/downloads/terryszhou.cloudbank.svg" />
+  </a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=terryszhou.cloudbank">
+    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs/terryszhou.cloudbank.svg" />
+  </a>
+</p>
 
 ![screenshot](https://raw.githubusercontent.com/terryszhou/cloudbank/master/public/screenshot.png)
 
